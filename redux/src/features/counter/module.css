@@ -1,0 +1,32 @@
+div {
+  margin: 0;
+  padding: 0;
+}
+
+.counter {
+  color: aqua;
+  height: 250px;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  border-radius: 3px;
+  box-shadow: 0px 0px 10px 0px #787474;
+}
+
+.btn{
+    border: 1px solid #ccc;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background: none;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.count{
+    margin: 0px 35px;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+}
